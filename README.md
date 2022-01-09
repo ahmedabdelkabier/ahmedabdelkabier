@@ -2,7 +2,7 @@
 
 I am a software student @faculty of enginnering CCE department 🧑‍💻
 
-I am a java developer 💻
+I am a JAVA developer 💻
 
 - Interested in Competitive programming 🥇
 - Currently studying ML 📊
