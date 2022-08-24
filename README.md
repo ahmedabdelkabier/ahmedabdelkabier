@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
 
 - 🔭 I’m currently working on **ML intern project**
 
