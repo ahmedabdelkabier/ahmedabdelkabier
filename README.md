@@ -25,9 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedabdelkabier&theme=dark&show_icons=true&locale=en&layout=compact" alt="ahmedabdelkabier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelkabier&show_icons=true&locale=en" alt="ahmedabdelkabier" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelkabier&theme=dark&show_icons=true&locale=en" alt="ahmedabdelkabier" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelkabier&" alt="ahmedabdelkabier" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelkabier&theme=dark&" alt="ahmedabdelkabier" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier&theme=dark" alt="ahmedabdelkabier" /></a> </p>
