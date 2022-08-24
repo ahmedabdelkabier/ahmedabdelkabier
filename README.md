@@ -1,13 +1,11 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif))](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Ahmad Abdulkabier</h1>
 <h2 align="center">I am a Flutter developer</h2>
 <h3 align="center">I am a computer and communication student @faculty of engineering Alexandria-University</h3>
-<img align="center" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
+<img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
 
 - 🔭 I’m currently working on **ML intern project**
 
