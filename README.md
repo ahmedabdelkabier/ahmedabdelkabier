@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdulkabier</h1>
+<h2 align="center">I am a Flutter developer</h2>
 <h3 align="center">I am a computer and communication student @faculty of engineering Alexandria-University</h3>
+<img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelkabier&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelkabier" /> </p>
 
