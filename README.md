@@ -3,10 +3,6 @@
 <h3 align="center">I am a computer and communication student @faculty of engineering Alexandria-University</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
-
 - 🔭 I’m currently working on **ML intern project**
 
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
@@ -32,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelkabier&show_icons=true&locale=en" alt="ahmedabdelkabier" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelkabier&" alt="ahmedabdelkabier" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelkabier" alt="ahmedabdelkabier" /></a> </p>
