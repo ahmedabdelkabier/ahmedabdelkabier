@@ -3,7 +3,7 @@
 <h3 align="center">I am a computer and communication student @faculty of engineering Alexandria-University</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on **GP**
 
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
