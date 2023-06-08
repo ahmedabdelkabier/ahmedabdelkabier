@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GP**
 
-- 🌱 I’m currently learning **Deep Learning and Machine Learning**
+- 🌱 I’m currently learning **NA**
 
 - 💬 Ask me about **Flutter&Dart**
 
