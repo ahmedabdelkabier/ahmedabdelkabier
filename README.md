@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdulkabier</h1>
 <h2 align="center">I am a SOFTWARE ENGINEER</h2>
-<h3 align="center">I am a computer and communication graduate from faculty of Engineering Alexandria-University</h3>
+<h3 align="center">I am a computer and communication graduate from the faculty of Engineering Alexandria-University</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
 - 🔭 I’m currently working on **In_military_service**
