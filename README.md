@@ -3,13 +3,13 @@
 <h3 align="center">I am a computer and communication graduate from the faculty of Engineering Alexandria-University</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
-- 🔭 I’m currently working on **In_military_service**
+- 🔭 I’m currently working on **My self**
 
-- 🌱 I’m currently learning **NA**
+- 🌱 I’m currently learning **DJANGO**
 
-- 💬 Ask me about **Flutter&Dart**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **ahmedabdelkabier7@gmail.com**
+- 📫 How to reach me **ahmedabdelkabierhassan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
